@@ -82,12 +82,35 @@ The application includes:
 
 ------------------------------------------------------------------------
 ## 🧱 UI
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e3748a4a-c633-485f-a7bf-25f2fe96a487" width="210" style="border-radius:12px; margin:6px;"/>
-  <img src="https://github.com/user-attachments/assets/724707ca-b8cc-4720-851e-74fad5207396" width="210" style="border-radius:12px; margin:6px;"/>
-  <img src="https://github.com/user-attachments/assets/042535ca-44f6-4df5-ae30-708bc593fe26" width="210" style="border-radius:12px; margin:6px;"/>
-  <img src="https://github.com/user-attachments/assets/ce504e6b-db88-4a8a-8fab-0fcbc2d263bc" width="210" style="border-radius:12px; margin:6px;"/>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/e3748a4a-c633-485f-a7bf-25f2fe96a487" width="220" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);"/>
+<br><sub><b>Home</b></sub>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/724707ca-b8cc-4720-851e-74fad5207396" width="220" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);"/>
+<br><sub><b>Details</b></sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/042535ca-44f6-4df5-ae30-708bc593fe26" width="220" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);"/>
+<br><sub><b>Profile</b></sub>
+</td>
+
+<td align="center">
+<img src="https://github.com/user-attachments/assets/ce504e6b-db88-4a8a-8fab-0fcbc2d263bc" width="220" style="border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.15);"/>
+<br><sub><b>Settings</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ------------------------------------------------------------------------
 
